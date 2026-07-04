@@ -1,145 +1,177 @@
+<!-- ========================= HEADER ========================= -->
+
 <h1 align="center">Hi 👋, I'm Shashwath S Kunder</h1>
 
-<h3 align="center">Computer Science Undergraduate | AI & Machine Learning Enthusiast | Backend Developer</h3>
+<h3 align="center">
+Computer Science Undergraduate • AI Engineer • Software Developer
+</h3>
 
 <p align="center">
-Building intelligent applications with Machine Learning, Agentic AI, and Backend Development.
+Building scalable AI applications, intelligent backend systems, and solving real-world engineering problems.
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=shashwath01k&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-🎓 Computer Science Undergraduate at **NMAM Institute of Technology, Nitte**
-
-💡 Passionate about solving real-world problems using **Artificial Intelligence**, **Machine Learning**, and **Software Engineering**.
-
-🔬 Currently working on:
-- CT Scan Planning without Scout Images (Research Project)
-- AI applications using LangChain & RAG
-- Data Structures & Algorithms
-
-🎯 Career Interests:
-- Software Engineering
-- Artificial Intelligence
-- Machine Learning
-- Backend Development
-
-💼 Currently looking for:
-- Software Engineering Internships
-- AI/ML Internships
-- Backend Development Opportunities
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-- Python
-- C++
-- SQL
-
-### AI & Machine Learning
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- LangChain
-- RAG
-
-### Backend Development
-- Flask
-- REST APIs
-
-### Tools & Platforms
-- Git
-- GitHub
-- VS Code
-- Jupyter Notebook
-- Microsoft Azure
-
----
-
-## 🚀 Featured Projects
-
-### 🏥 CT Scan Planning without Scout Images
-Research project focused on improving CT scan planning by identifying organ boundaries without scout images.
-
-### 🤖 AICTE OIB-SIP Machine Learning Projects
-Completed as part of the AICTE Oasis Infobyte Internship:
-- Iris Flower Classification
-- Car Price Prediction
-- Email Spam Detection
-- Unemployment Rate Analysis
-
-### 🌐 Flask Web Applications
-Developed multiple backend web applications using Flask.
-
-### 🚚 Hackathon Project
-Working on intelligent freight optimization solutions for reducing empty truck return trips.
-
----
-
-## 📜 Certifications
-
-- Microsoft Azure Fundamentals
-- AICTE Oasis Infobyte Internship
-
----
-
-## 📚 Currently Learning
-
-- Data Structures & Algorithms
-- System Design
-- LangChain
-- Agentic AI
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shashwath01k&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwath01k&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwath01k&theme=github-dark&hide_border=true"/>
+<a href="https://komarev.com/ghpvc/?username=shashwath01k">
+<img src="https://komarev.com/ghpvc/?username=shashwath01k&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+</a>
 </p>
 
 ---
 
-## 🎯 2026 Goals
+# 👨‍💻 About Me
 
-✔ Strengthen DSA & Problem Solving
+```python
+class Shashwath:
 
-✔ Build Production-Ready AI Applications
+    def __init__(self):
 
-✔ Contribute to Open Source
+        self.name = "Shashwath S Kunder"
 
-✔ Learn Cloud & System Design
+        self.education = "B.E. Computer Science"
 
-✔ Secure a Software Engineering / AI Internship
+        self.college = "NMAM Institute of Technology, Nitte"
+
+        self.interests = [
+            "Artificial Intelligence",
+            "Machine Learning",
+            "Backend Engineering",
+            "System Design"
+        ]
+
+        self.current_focus = [
+            "CT Scan Planning AI Research",
+            "LangChain & RAG",
+            "Data Structures & Algorithms"
+        ]
+
+        self.goal = "Build intelligent software used by millions."
+```
 
 ---
 
-## 📫 Connect with Me
+# 🚀 What I'm Working On
 
-📧 **Email:** shashwath.s.kunder@gmail.com
+🏥 CT Scan Planning without Scout Images (Research)
 
-💼 **LinkedIn:** https://www.linkedin.com/in/shashwathkunder/
+🤖 AI Agents using LangChain
 
-📍 **Location:** Karnataka, India
+📚 Data Structures & Algorithms
+
+⚙️ Backend Development with Flask
+
+☁️ Cloud Technologies (Azure)
+
+---
+
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,mysql"/>
+</p>
+
+## AI / Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+<img src="https://img.shields.io/badge/LangChain-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-blue?style=for-the-badge"/>
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=flask,fastapi"/>
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,azure"/>
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏥 CT Scan Planning AI | AI-based organ boundary identification without scout images | Python, AI |
+| 🤖 LangChain Experiments | Building RAG & AI Agent workflows | LangChain |
+| 📊 OIB-SIP ML Projects | AICTE Internship ML & Data Science Projects | Python |
+| 🚚 Smart Freight Optimizer | Truck empty-return optimization system | AI, Optimization |
+| 🌐 Flask Web Applications | Authentication, Wishlist & Backend Apps | Flask |
+| 💻 DSA Repository | Interview preparation and problem solving | C++, Python |
+
+---
+
+# 📜 Certifications
+
+🏅 Microsoft Azure Fundamentals
+
+🏅 AICTE Oasis Infobyte Internship
+
+---
+
+# 📈 GitHub Analytics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shashwath01k&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashwath01k&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashwath01k&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 2026–27 Roadmap
+
+✅ Master DSA
+
+⬜ Build 3 Production-Level Projects
+
+⬜ Learn System Design
+
+⬜ Master Backend Development
+
+⬜ Deploy AI Applications
+
+⬜ Contribute to Open Source
+
+⬜ Secure a High-Paying Software Engineering Role
+
+---
+
+# 📫 Let's Connect
+
+📧 **Email**
+
+shashwath.s.kunder@gmail.com
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/shashwathkunder
+
+📍 Karnataka, India
+
+---
+
+# 💡 Philosophy
+
+> **"Great software isn't built by writing more code. It's built by solving meaningful problems."**
 
 ---
 
 <p align="center">
-⭐ <b>Always Learning • Always Building • Always Improving</b> ⭐
+
+⭐ Thanks for visiting my profile ⭐
+
 </p>
