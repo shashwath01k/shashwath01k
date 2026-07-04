@@ -27,7 +27,7 @@ class Shashwath:
 
         self.name = "Shashwath S Kunder"
 
-        self.education = "B.E. Computer Science"
+        self.education = "B.Tech Information Science and Engineering"
 
         self.college = "NMAM Institute of Technology, Nitte"
 
